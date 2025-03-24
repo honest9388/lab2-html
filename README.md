@@ -1,0 +1,1 @@
+This lab involves creating a well-structured HTML5 webpage using semantic elements, which includes a navigation menu, a main content section with news articles, a sidebar with related links, and a footer. We also implemented an HTML5 contact form with built-in validation to collect use.
